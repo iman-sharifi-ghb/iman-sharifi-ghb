@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Iman Sharifi with Github ID @iman-sharifi-ghb
-- 👀 I’m interested in Applied Mathematics, Dynamics, and Control using Machine Learning and Computer Vision.
-- 🌱 I’m currently learning Neuro-Symbolic Reinforcement Learning.
-- 💞️ I’m looking to collaborate on projects according to my skills.
-- 📫 Please feel free to contact me at: iman.sharifi.edu@gmail.com
+👋 Hi, I’m Iman Sharifi (GitHub: @iman-sharifi-ghb).
+👀 I’m interested in Machine Learning, Reinforcement Learning in Control and Decision-making.
+🌱 I’m currently especializing in Neuro-Symbolic Reinforcement Learning and Large Language Models.
+💞️ I’m open to collaborating on projects that align with my expertise.
+📫 Feel free check out my [website](https://iman-sharifi-ghb.github.io/) and contact me at: iman.sharifi.edu@gmail.com.
 
 <!---
 98210184/98210184 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
